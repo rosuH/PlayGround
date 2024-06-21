@@ -19,7 +19,7 @@ This is a demo project for the KotlinConf'24 Shenzhen talk. It demonstrates how 
 ## How to run
 
 ### 1. Prepare the environment, using [KDoctor](https://github.com/Kotlin/kdoctor)
-- Android: Android Studio should install the [KMP Plugin](https://github.com/Kotlin/kdoctor).
+- Android: Android Studio should install the [KMP Plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform).
 - iOS: Xcode and at least one iOS simulator.
 
 ### 2. Sync the project
