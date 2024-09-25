@@ -1,6 +1,8 @@
 # KMP Cross-platform UI Demo
 
 > For KotlinConf'24 Shenzhen
+>
+> Slide: [KMP Cross-platform UI](./rosu_kotlinconf_shenzhen.pdf)
 
 ## Introduction
 
